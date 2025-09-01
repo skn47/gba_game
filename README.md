@@ -16,7 +16,7 @@ This program is written in C and meant to be run on a Game Boy Advance (GBA) emu
 
 To setup this game, clone the repository.
 ```
-https://github.com/skn47/five_nights_at_the_krusty_krab.git
+git clone https://github.com/skn47/five_nights_at_the_krusty_krab.git
 ```
 
 ### Linux/macOS
